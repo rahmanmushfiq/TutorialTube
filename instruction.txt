@@ -1,0 +1,1 @@
+Please import the "videodb.sql" file into your local server before starting the application.
